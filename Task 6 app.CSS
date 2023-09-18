@@ -1,0 +1,348 @@
+.aa{
+  position:relative;
+  font-weight:bold;
+font-family: Montserrat;
+font-size:30px;
+color:rgba(14, 14, 216, 0.811);
+
+}
+
+
+
+
+.container5{
+  position:absolute;
+  height:40px;
+  width:200px;
+  display: flex;
+  color: var(--Secondary, #F5F5F5);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33.6px;
+  border-radius: 8px;
+background: var(--accent, #203562);
+
+
+   
+    background-color:blue;
+    color:white;
+    padding: 10px;
+      font-size: 10px;
+}
+
+
+.container{
+
+  position: absolute;
+  height: 1000px;
+  width:500px;
+  top:0px;
+
+  left:250px;
+  background: rgb(2,0,36);
+  background: var(--Primary, #E3E8F8);
+
+
+  }
+  
+
+.cc{
+
+  
+  position:absolute;
+    background-color: #f0f0f0;
+    border-radius: 16px;
+
+  width: 1100px;
+  height: 280px;
+  border: 2px solid #333;
+  padding: 20px;
+  top:20px;
+  left:40px;
+
+ 
+}
+
+.AAA{
+  color:rgba(50, 8, 140, 0.771);
+  font-weight: bold;
+  font-size: 30px;
+  font-family: Montserrat;
+}
+
+.BBB{
+  position:absolute;
+  
+  color:rgba(50, 8, 140, 0.771);
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Montserrat;
+  top:100px;
+
+
+}
+.CCC{
+  position:absolute;
+  
+  color:rgba(50, 8, 140, 0.771);
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Montserrat;
+  top:150PX;
+
+}
+.DDD{
+  position:absolute;
+  
+  color:rgba(50, 8, 140, 0.771);
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Montserrat;
+  top:330px;
+
+
+
+}
+
+.EEE{
+  position:absolute;
+  
+  color:rgba(44, 36, 65, 0.532);
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Montserrat;
+  top:380px;
+
+
+
+}
+
+.FFF{
+
+  position:absolute;
+    background-color: #f0f0f0;
+    border-radius: 16px;
+
+  width: 280px;
+  height: 280px;
+  border: 2px solid #333;
+  padding: 20px;
+  top:420px;
+  left:7px;
+
+}
+
+.fff1{
+  
+  font-weight:bold;
+  font-size: 25px;
+  font-family:Montserrat;
+  color: var(--accent, #203562);
+font-family: Montserrat;
+
+}
+
+.ffff
+{
+  position:absolute;
+  left:230px;
+  top:30px;
+
+}
+
+.fff3{
+  font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+
+}
+
+.fff4{
+  position:absolute;
+  top:230px;
+
+
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 22.4px; 
+}
+
+.GGG{
+
+  position:absolute;
+    background-color: #f0f0f0;
+    border-radius: 16px;
+
+  width: 280px;
+  height: 280px;
+  border: 2px solid #333;
+  padding: 20px;
+  top:420px;
+  left:390px;
+
+}
+
+.ggg1{
+  position:absolute;
+  color: var(--accent, #203562);
+  font-family: Montserrat;
+  font-size: 25px;
+  font-weight:bold ;
+  top:444px;
+  left:400px;
+  
+  font-weight: 600;
+  line-height: 33.6px;
+}
+
+.ggg2{
+  position:absolute;
+  left:400px;
+  top:500px;
+  font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 22.4px;
+width: 261px;
+height: 153px;
+flex-shrink: 0;
+
+}
+.gggg{
+  position:absolute;
+  left:600px;
+  top:455px;
+
+
+}
+.ggggg{
+  position:absolute;
+  left:630px;
+  top:455px;
+
+}
+
+.ggg3{
+  position:absolute;
+  color: #000;
+
+
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 22.4px; 
+left:400px;
+top:650px;
+
+}
+
+.HHH{
+  position:absolute;
+    background-color: #f0f0f0;
+    border-radius: 16px;
+
+  width: 280px;
+  height: 280px;
+  border: 2px solid #333;
+  padding: 20px;
+  top:420px;
+  left:770px;
+}
+
+.hhh1{
+  position:absolute;
+  left:800px;
+  top:444px;
+
+  color: var(--accent, #203562);
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 33.6px;
+
+}
+.hhhh{
+  position:absolute;
+  left:1000px;
+  top:455px;
+
+}
+.hhhhh{
+  position:absolute;
+  left:970px;
+  top:455px;
+
+}
+
+.hhh2{
+  position:absolute;
+  left:780px;
+  top:500px;
+  font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 22.4px;
+width: 261px;
+height: 136px;
+flex-shrink: 0;
+}
+
+.hhh3{
+  position:absolute;
+  color: #000;
+
+
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 22.4px; 
+left:780px;
+top:650px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
